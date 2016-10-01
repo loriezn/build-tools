@@ -67,10 +67,23 @@ My default build tools config for starting a new project
     - [ ] contrib-sublime-syntax
     - [ ] contrib-proselint
     - [ ] contrib-check-source-formatting
-    - [ ] contrib
-    - [ ] contrib
-    
-  - Themr
+    - [ ] contrib-texlint
+    - [ ] contrib-
+  - [ ] Themr
     - [ ] Theme - Seti Monokai
-  
+  - [ ] MarkdownHighlighting
+  - [ ] GitSyntaxes
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+
 
